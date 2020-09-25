@@ -1,0 +1,394 @@
+,No.,Project,Status,Lead CPHC,Builder,Location,Const. type,Bldg. function,Floor area,Project type,Unnamed: 10,date,year,month,state,city
+0,1009,Center for Design Research (CDR),Pre-certified,Ryan Abendroth,Studio 804 - Kansas University,"Lawrence, KS",Timber,Government,2396,New Construction,,[],,,KS,Lawrence
+1,1073,Hickory Hall,Pre-certified,Adam Cohen,Mod-U-Kraf,"Emory , VA",Timber,Commercial,29248,New Construction,,[],,,VA,Emory
+2,1077,HABITAT FOR THE 21ST CENTURY,Pre-certified,Robert Moore,Habitat for Humanity,"Tacoma, WA",Timber,Single Family,1232,New Construction,,[],,,WA,Tacoma
+3,1095,1202 Idaho Street,Pre-certified,Christopher Gonzales,Habitat for Humanity of Gallatin Valley,"Belgrade, MT",Timber,Single Family,1604,New Construction,,[],,,MT,Belgrade
+4,1117,The Passive-Agressive Home,Pre-certified,Vic Weber,Oak Tree Homes,"Wilton, IA",Mixed timber-masonry,Single Family,3410,New Construction,,[],,,IA,Wilton
+5,1121,Grant Residence,Pre-certified,Alan Abrams,Jos. Klockner & Co.,"Derwood, MD",Timber,Single Family,1735,New Construction,,[],,,MD,Derwood
+6,1131,The Urbana,Pre-certified,Bill McDonald,Phoenix Haus,"Freeland, MI",Timber,Single Family,3234,New Construction,,[],,,MI,Freeland
+7,1132,McKeesport Downtown Housing (Residential),Pre-certified,Michael Whartnaby,Repal Construction,"McKeesport, PA",Masonry,Multifamily,36643,Retrofit,,[],,,PA,McKeesport
+8,1140,Abbate House,Pre-certified,Nick Wakem,Stephen Isdale,"Austin, TX",Timber,Single Family,1130,New Construction,,[],,,TX,Austin
+9,1143,Oracle Institute,Pre-certified,Adam Cohen,,"Hillsville, VA",,Commercial,6390,New Construction,,[],,,VA,Hillsville
+10,1153,Summit Haus,Pre-certified,David Brach,Park City Design Build,"Park City, UT",Timber,Single Family,1869,New Construction,,[],,,UT,Park City
+11,1176,Bergman Residence,Pre-certified,,PRHG General Contractors,"Bellmore, NY",,Single Family,2025,New Construction,,[],,,NY,Bellmore
+12,1178,Carmouche Residence,Pre-certified,Adam Cohen,"Structures Design/Build, LLC","ROANOKE, VA",,Single Family,6578,New Construction,,[],,,VA,ROANOKE
+13,1183,Hazelwood Neighborhood Center,Pre-certified,,"Nelcon, Inc.","Pittsburgh, PA",Masonry,Commercial,11088,Retrofit,,[],,,PA,Pittsburgh
+14,1209,Harrison Street Passive House,Pre-certified,Izumi Kitajima,"O'Neill Development, Inc.","Rockville, MD",Timber,Single Family,4024,New Construction,,[],,,MD,Rockville
+15,1234,Knight Residence,Pre-certified,Adam Cohen,"Structures Design/Build, LLC","Earlysville, VA",Timber,Single Family,,New Construction,,[],,,VA,Earlysville
+16,1235,Sonoran Desert Passive,Pre-certified,David Brubaker,,"Tucson, AZ",,Single Family,2734,New Construction,,[],,,AZ,Tucson
+17,1238,Esta bien (Clarence trust property),Pre-certified,Joseph Zimmer,John Widell Construction,"Lake Geneva (Jainsville/Rock County, WI climate data set), WI",Timber,Single Family,4353,Addition,,[],,,WI,Lake Geneva (Jainsville/Rock County
+18,1244,Staten Island B3.5,Pre-certified,David White,,"Staten Island, NY",Autoclaved aerated concrete (AAC),Single Family,1127,New Construction,,[],,,NY,Staten Island
+19,1246,Amonette Residence,Pre-certified,Adam Cohen,"Structures Design/Build, LLC","Natural Bridge, VA",,Single Family,1826,New Construction,,[],,,VA,Natural Bridge
+20,1256,Durbin Estates Passive House,Pre-certified,Christine Gries,Habitat for Humanity Bowling Green/Warren County,"Bowling Green, KY",Timber,Single Family,1176,New Construction,,[],,,KY,Bowling Green
+21,1269,Westminster Place II at Windy Hill,Pre-certified,John Semmelhack,,"Philipsburg, PA",,Multifamily,52382,New Construction,,[],,,PA,Philipsburg
+22,1270,542 W 153rd St,Pre-certified,,,"New York, NY",,Multifamily,28573,New Construction,,[],,,NY,New York
+23,1274,803 Knickerbocker,Pre-certified,,,"Brooklyn, NY",,Multifamily,26734,New Construction,,[],,,NY,Brooklyn
+24,1306,Staten Island B6,Pre-certified,David White,,"Staten Island, NY",Autoclaved aerated concrete (AAC),Single Family,1800,New Construction,,[],,,NY,Staten Island
+25,1327,Byre Knoll,Pre-certified,Ginger Watkins,Smith Family Homes,"Elizabethtown, KY",Timber,Single Family,1392,New Construction,,[],,,KY,Elizabethtown
+26,1314,St John Neumann Place II,Pre-certified,Lois B. Arena,,"Philadelphia, PA",Timber,Multifamily,39482,New Construction,,[],,,PA,Philadelphia
+27,1315,Heritage Point,Pre-certified,Lois B. Arena,,,,Mixed-Use,1775,New Construction,,[],,,,
+28,1318,Heritage Point Type 1,Pre-certified,Lois B. Arena,,"Wilkes Barre, PA",Timber,Multifamily,13832,New Construction,,[],,,PA,Wilkes Barre
+29,1319,Heritage Point Type 2,Pre-certified,Lois B. Arena,,"Wilkes Barre, PA",Timber,Multifamily,8770,New Construction,,[],,,PA,Wilkes Barre
+30,1320,Heritage Point Type 3,Pre-certified,Lois B. Arena,,"Wilkes Barre, PA",Timber,Multifamily,16977,New Construction,,[],,,PA,Wilkes Barre
+31,1321,Heritage Point Type 4,Pre-certified,Lois B. Arena,,"Wilkes Barre, PA",Timber,Multifamily,10455,New Construction,,[],,,PA,Wilkes Barre
+32,1336,Woolman Passivhaus,Pre-certified,David Good,Atmosphere Design Build,"Nevada City, CA",Mixed timber-masonry,Single Family,3040,New Construction,,[],,,CA,Nevada City
+33,1342,Washington Square Town Homes - Townhouses,Pre-certified,Matthew Fine,"PIRHL Contractors, LLC","Chambersburg, PA",Timber,Multifamily,20950,New Construction,,[],,,PA,Chambersburg
+34,1349,Tenney Residence,Pre-certified,David Brach  Thomas Candee,,"Salt Lake City, UT",Timber,Single Family,3450,New Construction,,[],,,UT,Salt Lake City
+35,1353,Washington Square Town Homes - 24 Unit Apartments,Pre-certified,Matthew Fine,"PIRHL Contractors, LLC","Chambersburg, PA",Timber,Multifamily,23796,New Construction,,[],,,PA,Chambersburg
+36,1356,Washington Square Town Homes - 18 Unit Apartments,Pre-certified,Matthew Fine,"PIRHL Contractors, LLC","Chambersburg, PA",Timber,Multifamily,17403,New Construction,,[],,,PA,Chambersburg
+37,1357,Washington Square Town Homes - Community Building,Pre-certified,Matthew Fine,"PIRHL Contractors, LLC","Chambersburg, PA",Timber,Commercial,1708,New Construction,,[],,,PA,Chambersburg
+38,1365,West Side Flats III B,Pre-certified,Elizabeth Turner,,"St. Paul, MN",,Multifamily,93010,New Construction,,[],,,MN,St. Paul
+39,1367,11 West 126th Street,Pre-certified,Thomas Moore,Banta Homes Corporation,"New York City , NY",Insulated concrete forms,Multifamily,9655,New Construction,,[],,,NY,New York City
+40,1368,Doig River Cultural Center,Pre-certified,,,"Doig River, BC",Timber,Commercial,5514,New Construction,,[],,,BC,Doig River
+41,1374,Columbia County Habitat Passive Townhomes 3,Pre-certified,Carmel Pratt,Columbia County Habitat for Humanity,"Valatie, NY",Timber,Multifamily,2872,New Construction,,[],,,NY,Valatie
+42,1383,Gessner Residence,Pre-certified,Maren Longhurst,"Gavin Tenold, Pura Vida Homes","Post Falls, ID",Timber,Single Family,1766,New Construction,,[],,,ID,Post Falls
+43,1385,Seminary Hill Ciders,Pre-certified,James Hartford  Adriana Rombaldi,,"Callicoon, NY",Mixed timber-masonry,Commercial,7542,New Construction,,[],,,NY,Callicoon
+44,1386,Foley Residence,Pre-certified,Sam Rodell  Maren Longhurst,"Glenn Carter, Advanced Building Consultants","Lake Tapps, WA",Timber,Single Family,1986,New Construction,,[],,,WA,Lake Tapps
+45,1391,1300 Pike,Pre-certified,Daniel Luddy,Cascade Built,"Seattle, WA",Mixed timber-masonry,Multifamily,29490,New Construction,,[],,,WA,Seattle
+46,1395,84 Hadley,Pre-certified,Natalie Leonard,S. Larade Custom Home Builders,"Halifax, NS",Timber,Single Family,2290,New Construction,,[],,,NS,Halifax
+47,1397,Shafer Residence Passive House,Pre-certified,,Oak Tree Homes,"Wilton, IA",Timber,Single Family,1817,New Construction,,[],,,IA,Wilton
+48,1398,Muncy Greene,Pre-certified,Sanyog Rathod,Woda Group,"Muncy, PA",Timber,Single Family,4805,New Construction,,[],,,PA,Muncy
+49,1401,Montgomery Park,Pre-certified,John Semmelhack,,"Norristown, PA",Timber,Multifamily,42278,New Construction,,[],,,PA,Norristown
+50,1402,Anthony Wayne III,Pre-certified,John Semmelhack,,"Philadelphia, PA",,Multifamily,39806,New Construction,,[],,,PA,Philadelphia
+51,1405,The Willows at Landisville - Building 1,Pre-certified,John Semmelhack,Ingerman,"Landisville, PA",Timber,Multifamily,,New Construction,,[],,,PA,Landisville
+52,1406,Norby Residence,Pre-certified,Brian Falcon,,"Loch Sheldrake, NY",Timber,Single Family,2995,New Construction,,[],,,NY,Loch Sheldrake
+53,1409,3221 Blenheim Place,Pre-certified,Ron Frazier,Frazier Passie House Design|Build Inc,"Winston Salem, NC",Timber,Single Family,2138,New Construction,,[],,,NC,Winston Salem
+54,1416,Tree of Life,Pre-certified,,,"Queens, NY",Insulated concrete forms,Mixed-Use,148403,New Construction,,[],,,NY,Queens
+55,1417,Hsu Residence,Pre-certified,Katy Hollbacher,MacLeod Design & Construction,"Berkeley, CA",Timber,Single Family,942,New Construction,,[],,,CA,Berkeley
+56,1421,577 West 161st Street,Pre-certified,Carmel Pratt,Rohan Developments,"New York City, NY",Masonry,Mixed-Use,16321,New Construction,,[],,,NY,New York City
+57,1422,Muncy Greene (w/ Community Space),Pre-certified,,Woda Group,"Muncy, PA",Timber,Single Family,7008,New Construction,,[],,,PA,Muncy
+58,1428,425 Grand Concourse,Pre-certified,Lois B. Arena,"Monadnock Construction, Inc.","Bronx, NY",Masonry,Mixed-Use,280227,New Construction,,[],,,NY,Bronx
+59,1432,Waynflete Lower School,Pre-certified,Colin Schless,Wright Ryan Construction,"Portland, ME",Mixed timber-masonry,School,21475,New Construction,,[],,,ME,Portland
+60,1433,Mount Lebanon Senior Housing,Pre-certified,John Semmelhack,Sota,"Pittsburgh, PA",Timber,Multifamily,61876,New Construction,,[],,,PA,Pittsburgh
+61,1435,1675 Westchester Avenue,Pre-certified,Eric VanderMaas,1675 JV Associates LLC,"Bronx, NY",Masonry,Multifamily,187016,New Construction,,[],,,NY,Bronx
+62,1436,Harry T. Nance Apartments,Pre-certified,Tyler Davis,Ridgewood Bushwick Senior Citizens Council Inc.,"Brooklyn, NY",Masonry,Mixed-Use,61300,New Construction,,[],,,NY,Brooklyn
+63,1439,casaVERDE,Pre-certified,Patrick Ryan,Ryan Inc.,"Somerville, NJ",Timber,Single Family,2491,New Construction,,[],,,NJ,Somerville
+64,1441,The Willows at Landisville - Building 3,Pre-certified,John Semmelhack,Ingerman,"Landisville, PA",,Multifamily,,,,[],,,PA,Landisville
+65,1442,The Willows at Landisville - Building 4,Pre-certified,John Semmelhack  John Semmelhack,Ingerman,"Landisville, PA",,Multifamily,,,,[],,,PA,Landisville
+66,1443,The Willows at Landisville - Building 5,Pre-certified,John Semmelhack,Ingerman,"Landisville, PA",,Multifamily,,New Construction,,[],,,PA,Landisville
+67,1445,West Moberly Health Centre,Pre-certified,,,"West Moberly, BC",Timber,Commercial,5400,New Construction,,[],,,BC,West Moberly
+68,1453,AMR Retirement Residence of Glassport,Pre-certified,Joseph Giampietro,Franjo Construction,"Glassport, PA",Mixed timber-masonry,Multifamily,57121,Retrofit,,[],,,PA,Glassport
+69,1455,Copper Pass Apartments,Pre-certified,Prudence Ferreira,,"Sioux Falls, SD",,Multifamily,32260,New Construction,,[],,,SD,Sioux Falls
+70,1466,Ballard Passive,Pre-certified,Taylor Callaway,First Lamp Architects and Construction,"Seattle, WA",Timber,Single Family,2184,New Construction,,[],,,WA,Seattle
+71,1486,11 Crown Street - Colony Street Townhomes,Pre-certified,Thomas Moore,,"Meriden , CT",,Multifamily,12288,New Construction,,[],,,CT,Meriden
+72,1487,11 Crown Street - Crown Street Townhomes,Pre-certified,Thomas Moore,,"Meriden, CT",Mixed timber-masonry,Multifamily,16486,New Construction,,[],,,CT,Meriden
+73,1488,11 Crown Street - Perkins Street Apartment,Pre-certified,Thomas Moore,,"Meriden, CT",,Multifamily,69849,New Construction,,[],,,CT,Meriden
+74,1493,Parade Street Commons East - Building B,Pre-certified,Timothy McDonald,,"Erie, PA",Timber,Multifamily,24554,New Construction,,[],,,PA,Erie
+75,1494,Parade Street Commons East - Building A,Pre-certified,Timothy McDonald,,"Erie, PA",Timber,Multifamily,7603,New Construction,,[],,,PA,Erie
+76,1495,Parade Street Commons East - Building C,Pre-certified,Timothy McDonald,,"Erie, PA",Timber,Multifamily,6120,New Construction,,[],,,PA,Erie
+77,1496,Parade Street Commons East - Building D,Pre-certified,Timothy McDonald,,"Erie, PA",Timber,Multifamily,9737,New Construction,,[],,,PA,Erie
+78,1497,Parade Street Commons East - Building E,Pre-certified,Timothy McDonald,,"Erie, PA",Timber,Commercial,1035,New Construction,,[],,,PA,Erie
+79,1499,Hook & Ladder,Pre-certified,Elizabeth Turner,Frerichs Construction,"Minneapolis, MN",Timber,Multifamily,53167,New Construction,,[],,,MN,Minneapolis
+80,1500,Harrison Street Infill,Pre-certified,Robin McGrew,"AllenBuilt, Inc.","Washington, DC",Mixed timber-masonry,Single Family,3650,New Construction,,[],,,DC,Washington
+81,1502,VanDercreek Residence,Pre-certified,Tom Bassett-Dilley,,"Lake Bluff, IL",Timber,Single Family,,New Construction,,[],,,IL,Lake Bluff
+82,1504,Yannell Passive House,Pre-certified,Scott Farbman,,"Chicago, IL",,Single Family,3513,Retrofit,,[],,,IL,Chicago
+83,1511,Williams College Garfield House,Pre-certified,Elsa Mullin,,"Williamstown, MA",Mixed timber-masonry,Multifamily,17755,New Construction,,[],,,MA,Williamstown
+84,1533,Habitat for Humanity Columbia County - Ancramdale,Pre-certified,Carmel Pratt,Habitat for Humanity Columbia County,"Ancramdale, NY",Timber,Multifamily,2788,New Construction,,[],,,NY,Ancramdale
+85,1517,Cary Senior Living,Pre-certified,Prudence Ferreira,,"Cary, IL",Timber,Multifamily,62173,New Construction,,[],,,IL,Cary
+86,1520,Bertucci Pfundt Residence,Pre-certified,Maren Longhurst,Cameron Rippy,"Spokane, WA",,Single Family,2224,New Construction,,[],,,WA,Spokane
+87,1526,North Miller Passive Multifamily,Pre-certified,,Urban Myth Construction - Michael Robinson,"Newburgh, NY",Mixed timber-masonry,Multifamily,2354,Retrofit,,[],,,NY,Newburgh
+88,1530,Chisca-Polonski House,Pre-certified,,"Metro Green, LLC","Falls Church, VA",Timber,Single Family,3361,New Construction,,[],,,VA,Falls Church
+89,1532,Front Flats,Pre-certified,,Jig Inc.,"Philadelphia, PA",Timber,Multifamily,15589,New Construction,,[],,,PA,Philadelphia
+90,1534,Minkoff Residence,Pre-certified,Richard Pedranti  Michelle Sangster,,"Spring Brook Township, PA",Timber,Single Family,1267,New Construction,,[],,,PA,Spring Brook Township
+91,1537,Uptown Passive House Apartments,Pre-certified,,Cascade Built,"Seattle, WA",,Multifamily,31636,New Construction,,[],,,WA,Seattle
+92,1543,Pioneer Apartments,Pre-certified,,,"New Kensington, PA",,Multifamily,43465,New Construction,,[],,,PA,New Kensington
+93,1545,Chestnut Commons,Pre-certified,Ayse Sen,,"Brooklyn , NY",Masonry,Mixed-Use,237055,New Construction,,[],,,NY,Brooklyn
+94,1546,Sol Bakke,Pre-certified,Stuart Fix,Butterwick Construction,"Onoway, AB",Insulated concrete forms,Single Family,3108,New Construction,,[],,,AB,Onoway
+95,1550,Meadows two,Pre-certified,Michal Kaleta,Allied Cook,"Hampton Falls , NH",Timber,Multifamily,20290,New Construction,,[],,,NH,Hampton Falls
+96,1551,Park Row Residences - Bowdoin College - Building 2,Pre-certified,Colin Schless  Elsa Mullin,,"Brunswick , ME",,Multifamily,12044,New Construction,,[],,,ME,Brunswick
+97,1552,Squirrelwood - Building L,Pre-certified,Maciej Konieczny,,"Cambridge, MA",Timber,Multifamily,13400,New Construction,,[],,,MA,Cambridge
+98,1555,Knockadoon,Pre-certified,"Susan Karczag, AIA Assoc.","Nugent Builders, INC","Rockford, MI",Timber,Single Family,2965,New Construction,,[],,,MI,Rockford
+99,1560,Liberty 52: Stephen F. Gold Community Residences,Pre-certified,David Salamon,,"Philadelphia, PA",Mixed timber-masonry,Multifamily,23318,New Construction,,[],,,PA,Philadelphia
+100,1562,Ross Drive Passive House,Pre-certified,John Semmelhack,,"Vienna, VA",,,,,,[],,,VA,Vienna
+101,1563,Cherry Orchard Place,Pre-certified,John Semmelhack,,"Susquehanna Township, PA",,Multifamily,45235,New Construction,,[],,,PA,Susquehanna Township
+102,1565,Mauhaus,Pre-certified,,Birdsmouth,"Hillsboro, OR",Timber,Single Family,1227,New Construction,,[],,,OR,Hillsboro
+103,1566,Susie Clemens,Pre-certified,David Berger,,"Hatfield, PA",Mixed timber-masonry,Multifamily,57137,New Construction,,[],,,PA,Hatfield
+104,1567,The Whisper House,Pre-certified,John Semmelhack,Idea Broker & Walters Group,"Barnegate, NJ",,Single Family,2000,New Construction,,[],,,NJ,Barnegate
+105,1569,Iowa City NEST,Pre-certified,Sanyog Rathod,Oak Tree Homes,"Iowa city, IA",Timber,Single Family,1571,New Construction,,[],,,IA,Iowa city
+106,1571,Balanced Builders Passive Office,Pre-certified,John Loercher,Balanced Builders,"Newburgh, NY",Mixed timber-masonry,Commercial,972,Retrofit,,[],,,NY,Newburgh
+107,1572,Pipsqueak,Pre-certified,Thomas Candee,Domain LLC,"Salt Lake City, UT",Timber,Single Family,1738,New Construction,,[],,,UT,Salt Lake City
+108,1573,Stone Ridge - Building A,Pre-certified,John Semmelhack  Sanyog Rathod,Woda Group,"Springettbury, PA",Timber,Single Family,18472,New Construction,,[],,,PA,Springettbury
+109,1581,Willrett Residence,Pre-certified,,,"Bandon, OR",,Single Family,1847,New Construction,,[],,,OR,Bandon
+110,1582,Rolling Bay Passive,Pre-certified,Randy Foster  Skylar Swinford,,"Bainbridge Island, WA",Timber,Multifamily,2342,New Construction,,[],,,WA,Bainbridge Island
+111,1589,Mapes Apartments,Pre-certified,David Berger,,"Bronx, NY",Masonry,Multifamily,29879,New Construction,,[],,,NY,Bronx
+112,1590,Cyrus House,Pre-certified,David Berger,,"Bronx, NY",Masonry,Multifamily,46912,New Construction,,[],,,NY,Bronx
+113,1591,Larson Passive House,Pre-certified,Michael Nolan,Oak Tree Homes,"Indianola, IA",Timber,Single Family,2112,New Construction,,[],,,IA,Indianola
+114,1592,4 Ward Place,Pre-certified,Russell Ley,Ed Nugent,"Ossining, NY",Timber,Single Family,3064,Retrofit,,[],,,NY,Ossining
+115,1594,Indwell Parkdale & Melvin Redevelopment - PH2,Pre-certified,,Schilthuis Construction Inc.,"Hamilton, ON",Timber,Multifamily,2941,New Construction,,[],,,ON,Hamilton
+116,1597,Hozho House,Pre-certified,Dale Babcock,Andra Robinson,"Saugatuck Township, MI",,Single Family,3386,New Construction,,[],,,MI,Saugatuck Township
+117,1598,Ames Hill Passive,Pre-certified,Christopher Clarke Miksic,https://www.matheshulmebuilders.com/,"Marlboro, VT",Timber,Single Family,1784,New Construction,,[],,,VT,Marlboro
+118,1604,Stonebridge Senior Housing Phase 2,Pre-certified,John Semmelhack,,"State College, PA",Timber,Multifamily,55698,New Construction,,[],,,PA,State College
+119,1605,Saltbox House,Pre-certified,Sarah Cobb,Rocket Construction Inc.,"Bromont, QC",Timber,Single Family,2472,New Construction,,[],,,QC,Bromont
+120,1606,Finch Cambridge,Pre-certified,Ian Johnson,NEI Contracting,"Cambridge, MA",,Multifamily,101024,New Construction,,[],,,MA,Cambridge
+121,1613,Gull Lake Net Zero Passive House,Pre-certified,Mark Miller,Abueva Builders LLC,"Richland, MI",Timber,Single Family,2333,New Construction,,[],,,MI,Richland
+122,1620,Woodlawn Senior Living,Pre-certified,Jordan Goldman,,"Bronx, NY",Masonry,Multifamily,47005,New Construction,,[],,,NY,Bronx
+123,1628,Carroll Center Addition/Renovation,Pre-certified,Tom Bassett-Dilley,,"Oak Park, IL",Masonry,School,7667,Addition,,[],,,IL,Oak Park
+124,1630,Silvergreen,Pre-certified,David Salamon  Shannon Pendleton,Custom Residential Construction / Hugh Lofting High Performance Homes,"Bryn Athyn, PA",Mixed timber-masonry,Multifamily,8456,New Construction,,[],,,PA,Bryn Athyn
+125,1633,Northbrook Park District Activity Center,Pre-certified,,,"Northbrook, IL",Insulated concrete forms,Commercial,44048,New Construction,,[],,,IL,Northbrook
+126,1636,Maple Corner Passive House,Pre-certified,Christopher Clarke Miksic  Matthew Lutz,Montpelier Construction,"Calais, VT",Timber,Single Family,1288,New Construction,,[],,,VT,Calais
+127,1638,Spice Residence,Pre-certified,"Michael Klement, AIA  Alex Jackson",Dana Miller Building Solutions,"Middlebury , IN",,Single Family,2104,New Construction,,[],,,IN,Middlebury
+128,1639,3707-23 Melon Street,Pre-certified,Jonathan Chizacky,"WP Construction, LLC","Philadelphia, PA",Timber,Multifamily,8958,New Construction,,[],,,PA,Philadelphia
+129,1640,3714-22 Melon Street,Pre-certified,Jonathan Chizacky,"WP Construction, LLC","Philadelphia, PA",Timber,Multifamily,6926,New Construction,,[],,,PA,Philadelphia
+130,1641,3729-39 Melon Street,Pre-certified,Jonathan Chizacky,"WP Construction, LLC","Philadelphia, PA",Timber,Mixed-Use,6591,New Construction,,[],,,PA,Philadelphia
+131,1642,3810 Melon Street,Pre-certified,Jonathan Chizacky,"WP Construction, LLC","Philadelphia, PA",Timber,Single Family,989,New Construction,,[],,,PA,Philadelphia
+132,1643,3836 Melon Street,Pre-certified,Jonathan Chizacky,"WP Construction, LLC","Philadelphia, PA",Timber,Single Family,1010,New Construction,,[],,,PA,Philadelphia
+133,1644,3844-46 Melon Street,Pre-certified,Jonathan Chizacky,"WP Construction, LLC","Philadelphia, PA",Timber,Multifamily,2193,New Construction,,[],,,PA,Philadelphia
+134,1648,Red Clay Creek,Pre-certified,Ilka Cassidy,Hugh Lofting High Performance Building/ Holzraum System LLC,"Kennett Square, PA",Timber,Single Family,2898,New Construction,,[],,,PA,Kennett Square
+135,1659,ABC No Rio,Pre-certified,Jordan Goldman,,"New York, NY",Masonry,Commercial,7696,New Construction,,[],,,NY,New York
+136,1670,Maggio Residence,Pre-certified,Tom Bassett-Dilley,Acts Construction,"Wheatland, WI",Insulated concrete forms,Single Family,3531,New Construction,,[],,,WI,Wheatland
+137,1676,Park View School Renovation,Pre-certified,Tom Boeman,,"Mt Prospect, IL",Masonry,School,27930,Retrofit,,[],,,IL,Mt Prospect
+138,1678,Stone Ridge Building B,Pre-certified,John Semmelhack  Sanyog Rathod,,"Springettsbury, PA",,Multifamily,18508,New Construction,,[],,,PA,Springettsbury
+139,1681,Timberhill,Pre-certified,"Susan Karczag, AIA Assoc.  Michael Klement, AIA",Adaptive Building Solutions,"Manchester, MI",Mixed timber-masonry,Single Family,2620,New Construction,,[],,,MI,Manchester
+140,1719,Park Row Residences - Bowdoin College - Building 1,Pre-certified,Colin Schless  Elsa Mullin,,"Brunswick , ME",,Multifamily,11651,New Construction,,[],,,ME,Brunswick
+141,1720,Park Row Residences - Bowdoin College - Building 3,Pre-certified,Colin Schless  Elsa Mullin,,"Brunswick , ME",,Multifamily,11651,New Construction,,[],,,ME,Brunswick
+142,1721,Park Row Residences - Bowdoin College - Building 4,Pre-certified,Colin Schless  Elsa Mullin,,"Brunswick , ME",,Multifamily,11651,New Construction,,[],,,ME,Brunswick
+143,1728,Emerald Hills Retirement Residence,Pre-certified,Craig Stevenson,Sota Construction Services,"Verona, PA",Mixed timber-masonry,Multifamily,55107,New Construction,,[],,,PA,Verona
+144,1015,Breezeway House,Certified,David Brach,,"Salt Lake City, UT",Timber,Single Family,2778,New Construction,,"['January', '1,', '2012']",2012,January,UT,Salt Lake City
+145,1013,Corehaus,Certified,Robert Hawthorne,"PDX Living, LLC","Portland, OR",Mixed timber-masonry,Single Family,1175,New Construction,,"['January', '1,', '2012']",2012,January,OR,Portland
+146,1010,Zero Cottage,Certified,Prudence Ferreira,Jon Landon,"San Francisco, CA",Timber,Single Family,1044,New Construction,,"['April', '16,', '2013']",2013,April,CA,San Francisco
+147,1066,EcoCor House,Certified,,EcoCor Design/Build,"Knox, ME",Timber,Single Family,1140,New Construction,,"['October', '31,', '2012']",2012,October,ME,Knox
+148,1016,Rue-Evans House,Certified,Blake Bilyeu,Bilyeu Homes Inc.,"Salem, OR",Timber,Single Family,1567,New Construction,,"['January', '1,', '2012']",2012,January,OR,Salem
+149,1017,Kenmore Road,Certified,Chris Senior,AnchorageBuildingCorp.com,"Chapel Hill, NC",Insulated concrete forms,Single Family,2062,New Construction,,"['January', '1,', '2012']",2012,January,NC,Chapel Hill
+150,1018,the G?�O Home!,Certified,,G O Logic,"Belfast, ME",Timber,Single Family,1143,New Construction,,"['January', '1,', '2012']",2012,January,ME,Belfast
+151,1019,"Center for Energy Efficient Design (CEED), Franklin County Public Schools",Certified,Adam Cohen,Structures Design/Build LLC,"Rocky Mount, VA",Timber,School,3053,New Construction,,"['January', '1,', '2012']",2012,January,VA,Rocky Mount
+152,1021,Prescott Passive House,Certified,Ryan Abendroth,Studio 804 - Kansas University,"Kansas City, KS",Timber,Single Family,1725,New Construction,,"['January', '1,', '2012']",2012,January,KS,Kansas City
+153,1022,Gable Home - Illinois - US DOE'S 2009 Solar Decathlon,Certified,Ryan Abendroth,University of Illinois,"Champaign, IL",Timber,Single Family,506,New Construction,,"['January', '1,', '2012']",2012,January,IL,Champaign
+154,1023,"Habitat for Humanity, Charlotte, Vermont",Certified,J.B. Clancy,Green Mountain Habitat for Humanity,"Charlotte , VT",Timber,Single Family,1487,New Construction,,"['January', '1,', '2012']",2012,January,VT,Charlotte
+155,1024,Hudson Passive Project,Certified,,Bill Stratton Building,"Hudson, NY",Timber,Single Family,1567,New Construction,,"['January', '1,', '2012']",2012,January,NY,Hudson
+156,1025,Beaton Residence,Certified,Paul W Panish,Beaton Construction,"Shrewsbury, MA",Timber,Single Family,3184,New Construction,,"['January', '1,', '2012']",2012,January,MA,Shrewsbury
+157,1026,O'Neill Residence Remodel/Retrofit,Certified,Graham Irwin,PassivWorks,"Sonoma, CA",Timber,Single Family,2055,Retrofit,,"['January', '1,', '2012']",2012,January,CA,Sonoma
+158,1027,Falmouth,Certified,Mike Duclos,,"Falmouth, MA",Timber,Single Family,1353,New Construction,,"['January', '1,', '2012']",2012,January,MA,Falmouth
+159,1028,Fairview I,Certified,Katrin Klingenberg,Mike Kernagis,"Urbana, IL",Timber,Single Family,1242,New Construction,,"['September', '1,', '2011']",2011,September,IL,Urbana
+160,1029,Fairview II,Certified,Katrin Klingenberg,Mike Kernagis / Tim Gibbs,"Urbana, IL",Timber,Single Family,1242,New Construction,,"['September', '1,', '2011']",2011,September,IL,Urbana
+161,1030,Smith House,Certified,Katrin Klingenberg,Katrin Klingenberg and Ed Sindelar,"Urbana, IL",Timber,Single Family,1216,New Construction,,"['September', '1,', '2011']",2011,September,IL,Urbana
+162,1032,Stanton Residence,Certified,Katrin Klingenberg,Darcy Bean Construction / Mike Kernagis,"Urbana, IL",Timber,Single Family,2258,New Construction,,"['January', '1,', '2012']",2012,January,IL,Urbana
+163,1033,Zadeh Residence,Certified,Keihly Moore,,"St. Joseph, IL",Timber,Single Family,2655,New Construction,,"['September', '1,', '2011']",2011,September,IL,St. Joseph
+164,1034,Washington Street,Certified,Katrin Klingenberg,,"Urbana, IL",Timber,Single Family,959,New Construction,,"['September', '1,', '2011']",2011,September,IL,Urbana
+165,1035,Dublin PH,Certified,Katrin Klingenberg,,"Urbana, IL",Timber,Single Family,1043,New Construction,,"['September', '1,', '2011']",2011,September,IL,Urbana
+166,1036,Cleveland Farm,Certified,Katrin Klingenberg,,MA,Timber,Single Family,,New Construction,,"['January', '1,', '2012']",2012,January,MA,MA
+167,1037,Isabella Lake House,Certified,,,"Isabella, MN",Timber,Single Family,2134,New Construction,,"['January', '1,', '2012']",2012,January,MN,Isabella
+168,1038,Louisiana PH,Certified,Katrin Klingenberg,,"Lafayette, LA",Timber,Single Family,895,New Construction,,"['January', '1,', '2012']",2012,January,LA,Lafayette
+169,1039,Konkol Passive House,Certified,Tim Eian,,"Hudson, WI",Insulated concrete forms,Single Family,1770,New Construction,,"['January', '1,', '2012']",2012,January,WI,Hudson
+170,1042,Lankford House,Certified,John Semmelhack,Jobes Builders,"Charlottesville, VA",Timber,Single Family,1713,New Construction,,"['January', '1,', '2012']",2012,January,VA,Charlottesville
+171,1043,New American Foursquare,Certified,David Peabody,"O'Neill Development, Inc.","Bethesda, MD",Mixed timber-masonry,Single Family,3674,New Construction,,"['January', '1,', '2012']",2012,January,MD,Bethesda
+172,1045,Branch's Bend,Certified,John Essig,Mitchell Custom Homes,"Onancock, VA",Timber,Single Family,4538,New Construction,,"['January', '1,', '2012']",2012,January,VA,Onancock
+173,1046,Omega Institute for Holistic Studies - Women's Leadership Center,Certified,Stephanie Bassler,,"Rhinebeck, NY",Timber,Commercial,1422,New Construction,,"['January', '1,', '2012']",2012,January,NY,Rhinebeck
+174,1047,Ruby House,Certified,David Brach,Benchmark,"Salt Lake City, UT",Timber,Single Family,2714,New Construction,,"['March', '27,', '2013']",2013,March,UT,Salt Lake City
+175,1048,"3226 S. US Hwy. 25W, Williamsburg, KY",Certified,Michael Hughes,Southern Tier Housing Corporation,"Williamsburg, KY",Timber,Single Family,1094,New Construction,,"['December', '1,', '2012']",2012,December,KY,Williamsburg
+176,1049,Karuna House,Certified,Dylan Lamar,Hammer and Hand,"Newberg, OR",Mixed timber-masonry,Single Family,3261,New Construction,,"['August', '12,', '2013']",2013,August,OR,Newberg
+177,1052,Green Gulch Zen Center Dormitory,Certified,Graham Irwin,Sawyer Construction,"Muir Beach, CA",Timber,Multifamily,2430,New Construction,,"['June', '13,', '2012']",2012,June,CA,Muir Beach
+178,1053,Huff ~ Collins Residence,Certified,Adam Cohen,"Strucutres Design/Build, LLC","Ironto, VA",Timber,Single Family,1752,New Construction,,"['September', '20,', '2012']",2012,September,VA,Ironto
+179,1054,Moskowitz,Certified,Christine Liaukus  Malka Van Bemmelen,"Westchester Modular Homes, Inc. and Big Sky Custom Homes LLC","Teaneck, NJ",Timber,Single Family,2925,New Construction,,"['June', '7,', '2016']",2016,June,NJ,Teaneck
+180,1055,1206 Lemon,Certified,Katy Hollbacher,"Clarum Homes (John Suppes & Sean Misskelley, CPHCs)","Menlo Park, CA",Timber,Single Family,2968,New Construction,,"['January', '1,', '2012']",2012,January,CA,Menlo Park
+181,1056,Wallace Homestead,Certified,Jesse Thompson,Structures DesignBuild,"Stuart, VA",Mixed timber-masonry,Single Family,3031,New Construction,,"['February', '1,', '2013']",2013,February,VA,Stuart
+182,1058,Orchard Street Passive House,Certified,Win Swafford  Jan Fillinger,Ecobuilding Collaborative of Oregon,"Eugene, OR",Timber,Single Family,1137,New Construction,,"['October', '12,', '2016']",2016,October,OR,Eugene
+183,1059,Jackman Residence,Certified,Peter Schneider,Donald P. Blake Jr. Inc.,"Stowe, VT",Timber,Single Family,3351,New Construction,,"['February', '5,', '2012']",2012,February,VT,Stowe
+184,1065,Terrahaus,Certified,Svea Vera Tullberg,Gï¿½O Logic,"Unity, ME",Timber,Single Family,1560,New Construction,,"['May', '11,', '2012']",2012,May,ME,Unity
+185,1068,TrekHaus,Certified,Robert Hawthorne,"PDX Living, LLC","Portland, OR",Timber,Multifamily,2370,New Construction,,"['May', '21,', '2012']",2012,May,OR,Portland
+186,1069,Glasswood,Certified,Skylar Swinford,Hammer and Hand,"Portland, OR",Timber,Commercial,1397,Retrofit,,"['December', '1,', '2012']",2012,December,OR,Portland
+187,1107,02Haus,Certified,Robert Hawthorne,"PDX Living, LLC","Portland, OR",Timber,Multifamily,2712,New Construction,,"['January', '14,', '2014']",2014,January,OR,Portland
+188,1070,Cottle ZEH,Certified,Allen Gilliland,One Sky Homes,"San Jose, CA",Timber,Single Family,2776,New Construction,,"['February', '16,', '2012']",2012,February,CA,San Jose
+189,1071,First Yellow Springs Passive House,Certified,Eric Lang,Green Generation Building Company,"Yellow Springs, OH",Timber,Single Family,1748,New Construction,,"['November', '26,', '2013']",2013,November,OH,Yellow Springs
+190,1074,Clarke Residence,Certified,Chris Senior,AnchorageBuildingCorp.com,"Pittsboro, NC",Insulated concrete forms,Single Family,3961,New Construction,,"['December', '1,', '2012']",2012,December,NC,Pittsboro
+191,1075,Lema Residence,Certified,Tom Bassett-Dilley,"Brandon Weiss, Weiss Building and Development, and Eric Barton, Biltmore Insulated Concrete","River Forest, IL",Insulated concrete forms,Single Family,3598,New Construction,,"['April', '4,', '2013']",2013,April,IL,River Forest
+192,1076,Habitat for Humanity of Madison & Clark Counties Passive House,Certified,Ginger Watkins,Habitat for Humanity of Madison & Clark Counties,"Berea, KY",Timber,Single Family,970,New Construction,,"['July', '30,', '2012']",2012,July,KY,Berea
+193,1079,Thesen-Kramer Residence,Certified,Dan Johnson,"Josh Moore, Red Company","Palo Alto, CA",Timber,Single Family,2043,New Construction,,"['May', '25,', '2012']",2012,May,CA,Palo Alto
+194,1085,Gaddy Residence,Certified,Michael Hindle,Maryland Custom Builders Inc.,"Clarksville, MD",Timber,Single Family,1778,New Construction,,"['June', '1,', '2018']",2018,June,MD,Clarksville
+195,1084,Hawkins House,Certified,Natalie Leonard,Leonard Construction,"Hubley, NS",Timber,Single Family,1644,New Construction,,"['September', '20,', '2012']",2012,September,NS,Hubley
+196,1086,Heidelberg Passive House,Certified,Michael Whartnaby,TBI Contracting,"Heidelberg, PA",Timber,Single Family,1739,New Construction,,"['December', '1,', '2012']",2012,December,PA,Heidelberg
+197,1087,Coulter Residence,Certified,Chris Senior,AnchorageBuildingCorp.com,"Chapel Hill, NC",Insulated concrete forms,Single Family,1867,New Construction,,"['December', '1,', '2012']",2012,December,NC,Chapel Hill
+198,1088,"99 Green Valley Rd, Williamsburg, KY",Certified,Michael Hughes,Kentucky Highlands Investment Corporation,"Williamsburg, KY",Timber,Single Family,1094,New Construction,,"['December', '1,', '2013']",2013,December,KY,Williamsburg
+199,1142,PNC SmartHome,Certified,Mark Hoberecht,,"Cleveland, OH",,Single Family,2935,New Construction,,"['December', '1,', '2012']",2012,December,OH,Cleveland
+200,1089,Kiln Apartments,Certified,David Posada,Lorentz Bruun,"Portland, OR",Timber,Multifamily,13164,New Construction,,"['December', '17,', '2014']",2014,December,OR,Portland
+201,1090,Yangpyeong Passive House,Certified,Bokyung Jun,HAOS,Gyeonggi-do South Korea,Insulated concrete forms,Single Family,2619,New Construction,,"['May', '21,', '2012']",2012,May,Gyeonggi-do South Korea,Gyeonggi-do South Korea
+202,1092,Taccogna Residence,Certified,Dylan Lamar,"Green Hammer, Alex Boetzel, CPHC","Dundee, OR",Timber,Single Family,1119,New Construction,,"['May', '29,', '2013']",2013,May,OR,Dundee
+203,1093,Newry Passive House,Certified,Jesper Kruse,maine passive house,"Newry, ME",Timber,Single Family,1955,New Construction,,"['April', '1,', '2014']",2014,April,ME,Newry
+204,1094,Parsons / Empowerhouse,Certified,Laura Briggs,Habitat for Humanity of Washington DC,"Washington, DC",Timber,Single Family,969,New Construction,,"['May', '21,', '2014']",2014,May,DC,Washington
+205,1096,Cape Cod House,Certified,Daniel Roy,"Dunhill Companies Osterville, Ma 02655","Falmouth, MA",Timber,Single Family,2019,New Construction,,"['April', '8,', '2014']",2014,April,MA,Falmouth
+206,1097,Crane-Prado Residence,Certified,Robert Phillips,"Accent Builders, Inc.","Denver, CO",Timber,Single Family,3112,New Construction,,"['July', '2,', '2015']",2015,July,CO,Denver
+207,1100,Skidmore House,Certified,Jeff Stern,Jeff Stern,"Portland, OR",Timber,Single Family,1680,New Construction,,"['July', '24,', '2013']",2013,July,OR,Portland
+208,1101,Fort St. John Passive House,Certified,,BC Passive House,"Fort St. John, BC",Timber,Single Family,1890,New Construction,,"['June', '26,', '2015']",2015,June,BC,Fort St. John
+209,1111,336 Rachel Carson Way,Certified,Lois B. Arena,Michael Carpenter,"Ithaca, NY",Timber,Single Family,1267,New Construction,,"['May', '1,', '2014']",2014,May,NY,Ithaca
+210,1106,Blaise House,Certified,Nicholas Koch,E Green Group,"Austin , TX",Timber,Single Family,1473,Retrofit,,"['December', '1,', '2012']",2012,December,TX,Austin
+211,1307,Straka Residence,Certified,Stephen Magneron,Vert Design Inc.,"Ottawa, ON",Insulated concrete forms,Single Family,2094,New Construction,,"['March', '20,', '2018']",2018,March,ON,Ottawa
+212,1110,Nova Passiv Haus,Certified,Peter Henry,Dobson Building & Remodeling,"Falls Church, VA",Timber,Single Family,2502,New Construction,,"['August', '7,', '2013']",2013,August,VA,Falls Church
+213,1112,Ellison Passive House,Certified,Lucien Ellison,Ellison Building Company,"Wilmington, NC",,Single Family,5045,New Construction,,"['August', '14,', '2014']",2014,August,NC,Wilmington
+214,1114,Pumpkin Ridge,Certified,Skylar Swinford,"Hammer and Hand, Inc","North Plains, OR",Timber,Single Family,3050,New Construction,,"['March', '10,', '2015']",2015,March,OR,North Plains
+215,1115,ecoMOD South - Abingdon,Certified,Barbara Gehrung,"Cardinal Homes, Wylliesburg, VA","Abingdon, VA",Timber,Single Family,1361,New Construction,,"['December', '2,', '2013']",2013,December,VA,Abingdon
+216,1118,CAPACES Leadership Institute,Certified,Dylan Lamar,Green Hammer + CLI Staff/Volunteers,"Woodburn, OR",Mixed timber-masonry,Commercial,2257,New Construction,,"['February', '5,', '2013']",2013,February,OR,Woodburn
+217,1119,Landau Residence,Certified,Jordan Goldman,,"Norwich, VT",Timber,Single Family,2700,New Construction,,"['December', '19,', '2012']",2012,December,VT,Norwich
+218,1120,Aamodt Passivhaus,Certified,,Homeowners,"Carnation, WA",Timber,Single Family,1340,New Construction,,"['October', '13,', '2017']",2017,October,WA,Carnation
+219,1122,Ivy City Passive Houses Block A,Certified,Barbara Gehrung,Habitat for Humanity Washington D.C.,"Washington D.C., DC",Mixed timber-masonry,Multifamily,3775,New Construction,,"['January', '6,', '2016']",2016,January,DC,Washington D.C.
+220,1125,Wood Residence Guest House,Certified,Jarrod Denton,PassivWorks,"Sonoma, CA",Timber,Single Family,562,New Construction,,"['June', '17,', '2014']",2014,June,CA,Sonoma
+221,1126,Wood Residence,Certified,Graham Irwin,PassivWorks,"Sonoma, CA",Timber,Single Family,3153,New Construction,,"['June', '17,', '2014']",2014,June,CA,Sonoma
+222,1127,Lisuzzo Residence,Certified,Sean Williams,Hugh Lofting Timber Framing Inc,"West Chester, PA",Mixed timber-masonry,Single Family,2140,New Construction,,"['August', '4,', '2015']",2015,August,PA,West Chester
+223,1129,Ivy City Passive House Block B,Certified,Barbara Gehrung,"Habitat for Humanity, Washington D.C.","Washington D.C., DC",Mixed timber-masonry,Multifamily,3747,New Construction,,"['January', '19,', '2017']",2017,January,DC,Washington D.C.
+224,1133,Traveler's Rest,Certified,Lisa Farmer,MainStream Corporation,"Fort Lupton, CO",Timber,Single Family,5797,New Construction,,"['January', '20,', '2016']",2016,January,CO,Fort Lupton
+225,1138,Lowell Ave 634,Certified,Prudence Ferreira,Smith-Hyder Construction,"Palo Alto, CA",Timber,Single Family,5431,New Construction,,"['July', '29,', '2014']",2014,July,CA,Palo Alto
+226,1141,"63 Green Valley Rd., Williamsburg, KY",Certified,Michael Hughes,Kentucky Highlands Investment Corporation,"Williamsburg, KY",Timber,Single Family,1094,New Construction,,"['December', '1,', '2013']",2013,December,KY,Williamsburg
+227,1145,"98 Green Valley Rd. Williamsburg, KY",Certified,Michael Hughes,Kentucky Highlands Investment Corporation,"Williamsburg, KY",Timber,Single Family,1094,New Construction,,"['December', '1,', '2012']",2012,December,KY,Williamsburg
+228,1146,Global Sustainable Solutions,Certified,Natalie Leonard,Global Sustainable Solutions,"Waubaushene, ON, ON",Insulated concrete forms,Single Family,2725,New Construction,,"['December', '5,', '2013']",2013,December,ON,Waubaushene
+229,1148,6th Street House,Certified,John Semmelhack,Latitude 38 - www.latitude38llc.com,"Charlottesville, VA",Timber,Single Family,2453,New Construction,,"['August', '7,', '2013']",2013,August,VA,Charlottesville
+230,1149,Malcolm Rosenberg Hillel Center,Certified,Adam Cohen,,"Blacksburg, VA",Timber,Commercial,7243,New Construction,,"['April', '1,', '2013']",2013,April,VA,Blacksburg
+231,1150,Brookfield Homes Passive House,Certified,Nathan St.Germain,Brookfield Homes,"Unicorporated Adams County, CO",Timber,Single Family,2680,New Construction,,"['August', '14,', '2013']",2013,August,CO,Unicorporated Adams County
+232,1151,Whitchurch Passive Cottage,Certified,Indigo Ruth-Davis,Montpelier Construction,"Middlesex, VT",Timber,Single Family,1436,New Construction,,"['April', '13,', '2015']",2015,April,VT,Middlesex
+233,1154,The Desert Passive House,Certified,Ian Schnack,,"Hereford, AZ",Timber,Single Family,2190,New Construction,,"['December', '1,', '2012']",2012,December,AZ,Hereford
+234,1155,Valley Waste Management Office Building,Certified,Natalie Leonard,Roscoe Construction,"Kentville, NS",Mixed timber-masonry,Commercial,6705,New Construction,,"['September', '24,', '2013']",2013,September,NS,Kentville
+235,1156,Karpiak Mulhall Passive House,Certified,Richard Pedranti,"Ciervo and Sons Renovations, Inc","Scranton, PA",Timber,Single Family,1773,New Construction,,"['December', '4,', '2015']",2015,December,PA,Scranton
+236,1157,Hill Residence Passive House,Certified,Katy Hollbacher,Carmel Building & Design,"Carmel-by-the-Sea, CA",Timber,Single Family,1433,New Construction,,"['September', '9,', '2013']",2013,September,CA,Carmel-by-the-Sea
+237,1160,17 Carol Street,Certified,Chris Trolle,Michael Trolle,"Danbury, CT",Timber,Single Family,1359,Retrofit,,"['February', '17,', '2014']",2014,February,CT,Danbury
+238,1161,Island Passive House,Certified,Tessa Smith,The Artisans Group,"Shaw Island, San Juan Islands, WA",Timber,Single Family,1533,New Construction,,"['October', '15,', '2013']",2013,October,WA,Shaw Island
+239,1162,Wesley Chapel,Certified,,Cation Construction Co.,"Chatham, IL",Timber,Single Family,1531,New Construction,,"['April', '7,', '2016']",2016,April,IL,Chatham
+240,1286,Coman Residence,Certified,Tom Bassett-Dilley,"Brandon Weiss, Evolutionary Home Builders","Hinsdale, IL",Timber,Single Family,2348,New Construction,,"['January', '2,', '2020']",2020,January,IL,Hinsdale
+241,1170,Sol Lux Alpha,Certified,Graham Irwin,"Sarter Construciton & Design, Inc; DBA Off The Grid Design","San Francisco, CA",Timber,Multifamily,6664,New Construction,,"['April', '6,', '2018']",2018,April,CA,San Francisco
+242,1172,Sunshine Health Facilities Resident Building,Certified,Sam Rodell,"Jon Hawley, Tamarack Ridge Construction","Spokane Valley, WA",Timber,Commercial,17852,New Construction,,"['July', '22,', '2015']",2015,July,WA,Spokane Valley
+243,1173,Rickey Residence,Certified,Sam Rodell,Pura Vida Homes,"Elk, WA",Timber,Single Family,1720,New Construction,,"['June', '12,', '2014']",2014,June,WA,Elk
+244,1174,Stellar Passive House Apartment Building,Certified,Win Swafford  Jan Fillinger,"Meili Construction Company, Inc.","Eugene, OR",Timber,Multifamily,5034,New Construction,,"['January', '27,', '2014']",2014,January,OR,Eugene
+245,1175,Bradburn Passive House,Certified,Kathy Aulwes,Daniel McNaughton,"Portland, OR",Timber,Single Family,2621,New Construction,,"['January', '30,', '2014']",2014,January,OR,Portland
+246,1177,Specht Residence,Certified,Adam Cohen,"Structures Design/Build, LLC","Thaxton, VA",Timber,Single Family,1406,New Construction,,"['June', '14,', '2012']",2012,June,VA,Thaxton
+247,1185,Habitat for Humanity SSBC - Canon Perdido Condos,Certified,Eduardo Devicente,Habitat for Humanity SSBC - Allen Associates,"Santa Barbara, CA",Timber,Multifamily,3543,New Construction,,"['March', '26,', '2015']",2015,March,CA,Santa Barbara
+248,1186,4564 19th Street Passive House Retrofit,Certified,Graham Irwin,ENU Construction,"San Francisco, CA",Timber,Single Family,3361,Retrofit,,"['January', '14,', '2014']",2014,January,CA,San Francisco
+249,1188,Uptown Lofts,Certified,Morgan Law,Mosites,"Pittsburgh, PA",Timber,Multifamily,19672,New Construction,,"['June', '9,', '2015']",2015,June,PA,Pittsburgh
+250,1190,Warnick Retreat,Certified,Sam Rodell  Maren Longhurst,"Glenn Carter, Advanced Building Consultants","Issaquah, WA",Mixed timber-masonry,Single Family,2215,New Construction,,"['May', '4,', '2018']",2018,May,WA,Issaquah
+251,1260,323 Rachel Carson Trail,Certified,,Michael Carpenter,"Ithaca, NY",Timber,Single Family,948,New Construction,,"['May', '14,', '2015']",2015,May,NY,Ithaca
+252,1211,Squirrel Hill Duplex,Certified,Erik Fritzberg,"Builders & Remodelers (partial execution), Exterior Cladding Leaf Redevelopment (partial execution)","Pittsburgh, PA",Timber,Multifamily,4119,New Construction,,"['October', '16,', '2017']",2017,October,PA,Pittsburgh
+253,1199,Von Eckartsberg,Certified,Morgan Law,Metro Green LLC,"Arlington, VA",Timber,Single Family,4074,New Construction,,"['January', '22,', '2016']",2016,January,VA,Arlington
+254,1200,North Street Passive House,Certified,James Hartford,Nugent CM,"Cold Spring, NY",Mixed timber-masonry,Single Family,1845,Retrofit,,"['October', '19,', '2016']",2016,October,NY,Cold Spring
+255,1201,ecoMOD South - South Boston,Certified,Barbara Gehrung,"Cardinal Homes, Wylliesburg, VA","South Boston, VA",Timber,Single Family,1361,New Construction,,"['December', '2,', '2013']",2013,December,VA,South Boston
+256,1203,The Orchards at Orenco,Certified,Dylan Lamar,Walsh Construction,"Hillsboro, OR",Mixed timber-masonry,Multifamily,42584,New Construction,,"['June', '12,', '2015']",2015,June,OR,Hillsboro
+257,1204,Weinberg Commons,Certified,Michael Hindle,Entellis Collaborative,"Washington , DC",Mixed timber-masonry,Multifamily,9380,Retrofit,,"['January', '5,', '2017']",2017,January,DC,Washington
+258,1206,R Residence,Certified,,"Daigo Kensetsu Co., Inc.","Yokohama City, Japan",Timber,Single Family,1631,New Construction,,"['July', '7,', '2016']",2016,July,Japan,Yokohama City
+259,1210,Domus Matris,Certified,Tom Bassett-Dilley  Bruce Zahn,Edge Grain LLC,"Milwaukee, WI",Timber,Single Family,1964,New Construction,,"['November', '14,', '2014']",2014,November,WI,Milwaukee
+260,1213,Seventh Day Adventist Church,Certified,,,"Kinderhook, NY",,Mixed-Use,6538,New Construction,,"['June', '6,', '2017']",2017,June,NY,Kinderhook
+261,1215,337 Rachel Carson Trail,Certified,Lois B. Arena,Michael Carpenter,"Ithaca, NY",Timber,Single Family,1270,New Construction,,"['June', '17,', '2014']",2014,June,NY,Ithaca
+262,1216,340 Rachel Carson Trail,Certified,Lois B. Arena,Michael Carpenter,"Ithaca, NY",Timber,Single Family,1267,New Construction,,"['June', '17,', '2014']",2014,June,NY,Ithaca
+263,1217,341 Rachel Carson Trail,Certified,Lois B. Arena,Michael Carpenter,"Ithaca, NY",Timber,Single Family,1270,New Construction,,"['June', '17,', '2014']",2014,June,NY,Ithaca
+264,1218,344 Rachel Carson Trail,Certified,Lois B. Arena,Michael Carpenter,"Ithaca, NY",Timber,Single Family,1267,New Construction,,"['June', '17,', '2014']",2014,June,NY,Ithaca
+265,1219,Turner House,Certified,Natalie Leonard,,"Hubley, NS",,Single Family,2083,New Construction,,"['September', '22,', '2015']",2015,September,NS,Hubley
+266,1220,Greener and MacLean Farmhouse,Certified,Natalie Leonard,,"Clifton, NS",Timber,Single Family,1675,New Construction,,"['October', '29,', '2015']",2015,October,NS,Clifton
+267,1222,McQuillan Residence,Certified,Lucas Morton,Alliance Green Builders,"Ramona, CA",,Single Family,2577,New Construction,,"['December', '19,', '2016']",2016,December,CA,Ramona
+268,1225,Owl Haven Passive,Certified,Robert Moore,Richard Epstein,"Langley, WA",Timber,Single Family,1496,New Construction,,"['October', '2,', '2015']",2015,October,WA,Langley
+269,1228,Rideau Residences,Certified,Ross Elliott,VERT plan.design.build,"Ottawa, ON",Mixed timber-masonry,Multifamily,3536,New Construction,,"['May', '8,', '2014']",2014,May,ON,Ottawa
+270,1232,Bedford Passive House,Certified,James Hartford,Nugent CM,"Bedford, NY",Timber,Single Family,3432,Retrofit,,"['January', '19,', '2019']",2019,January,NY,Bedford
+271,1233,"Taft Faculty Housing, 59 North St",Certified,Chris Trolle,BPC Green Builders,"Watertown, CT",Mixed timber-masonry,Single Family,3131,New Construction,,"['July', '8,', '2015']",2015,July,CT,Watertown
+272,1236,Madrona Passive House,Certified,Dan Whitmore,Hammer and Hand,"Seattle, WA",Timber,Single Family,3778,New Construction,,"['September', '13,', '2016']",2016,September,WA,Seattle
+273,1239,Smith Residence,Certified,David Brach,T&T Mountain Builders inc,"Park City, UT",Timber,Single Family,2265,New Construction,,"['July', '8,', '2015']",2015,July,UT,Park City
+274,1240,S1230 Studio Addition,Certified,Greg Simon,Studio 1230,"Va. Beach, VA",Timber,Single Family,436,Addition,,"['March', '2,', '2017']",2017,March,VA,Va. Beach
+275,1241,Blue-Ridge Passive House Residence,Certified,Markus Barrera-Kolb,Dyna Contracting,"Seattle, WA",Timber,Single Family,2891,New Construction,,"['October', '6,', '2017']",2017,October,WA,Seattle
+276,1242,5424 Addison Road,Certified,Izumi Kitajima,"O'Neill Development, Inc.","Fairmount Heights, MD",Timber,Single Family,1243,New Construction,,"['September', '13,', '2016']",2016,September,MD,Fairmount Heights
+277,1243,Emery Sreet Project,Certified,David Brach  Thomas Candee,Salt Lake City Housing and Neighborhood Development,"Salt Lake City, UT",Timber,Single Family,1793,New Construction,,"['December', '16,', '2016']",2016,December,UT,Salt Lake City
+278,1245,Columbia County Habitat Passive Townhouses,Certified,,Columbia County Habitat for Humanity,"Hudson, NY",Timber,Multifamily,2680,New Construction,,"['February', '22,', '2016']",2016,February,NY,Hudson
+279,1247,Project 580,Certified,Ryan Abendroth,Cedar Street Builders,"Zionsville, IN",Timber,Single Family,2600,New Construction,,"['August', '26,', '2015']",2015,August,IN,Zionsville
+280,1248,Loughran Home,Certified,Ryan Abendroth,"Timothy Loughran, DDS","Goreville, IL",Timber,Single Family,1528,New Construction,,"['July', '23,', '2018']",2018,July,IL,Goreville
+281,1249,Viridescent House,Certified,Edward Pais,R&G Bilodeau Carpentry and Electrical,"Falmouth, ME",Timber,Single Family,1470,New Construction,,"['March', '15,', '2016']",2016,March,ME,Falmouth
+282,1250,Woodstock Passive House,Certified,Daniel Levy  Gal Gabriel,,"Woodstock, NY",Autoclaved aerated concrete (AAC),Single Family,2373,New Construction,,"['August', '16,', '2016']",2016,August,NY,Woodstock
+283,1251,Windy View Passive House,Certified,Blake Bilyeu,"Bilyeu Homes, Inc","Philomath, OR",Timber,Single Family,1660,New Construction,,"['October', '30,', '2015']",2015,October,OR,Philomath
+284,1252,Phoenix PH-01,Certified,Scott Kosmecki,Hinge Build Group,"Portland, OR",Timber,Single Family,1568,Addition,,"['June', '6,', '2017']",2017,June,OR,Portland
+285,1253,Anton House,Certified,Joe Haskett,Swanson Construction,"Warren, RI",Timber,Single Family,2715,New Construction,,"['April', '22,', '2016']",2016,April,RI,Warren
+286,1255,Solterre Cottage,Certified,Natalie Leonard,,"Lunenburg, NS",,Single Family,1455,,,"['April', '22,', '2015']",2015,April,NS,Lunenburg
+287,1257,Distillery North,Certified,Mark Anstey  Adam Cohen,Commodore Builders,"South Boston, MA",Timber,Multifamily,27840,New Construction,,"['February', '22,', '2019']",2019,February,MA,South Boston
+288,1259,Mountain Lake Park Passive House,Certified,Michael Hindle,Gosnell Builders,"Mountain Lake Park, MD",Timber,Single Family,3175,New Construction,,"['June', '11,', '2018']",2018,June,MD,Mountain Lake Park
+289,1261,322 Rachel Carson Trail,Certified,Lois B. Arena,,"Ithaca, NY",,Single Family,987,,,"['May', '14,', '2015']",2015,May,NY,Ithaca
+290,1262,Mechanic Street Passive House,Certified,Daniel Roy,Stephen C. DeMetrick Fine Woodworking,"Wakefield , RI",Timber,Single Family,1404,New Construction,,"['August', '11,', '2015']",2015,August,RI,Wakefield
+291,1265,View Haus 5,Certified,Joseph Giampietro,Cascade Built,"Seattle, WA",Timber,Single Family,1062,New Construction,,"['August', '5,', '2015']",2015,August,WA,Seattle
+292,1267,Palatine Passive House,Certified,Dan Whitmore,Blue & Yellow Builders,"Seattle, WA",Timber,Single Family,2493,New Construction,,"['April', '8,', '2016']",2016,April,WA,Seattle
+293,1275,Windsor Passivhaus,Certified,Indigo Ruth-Davis,Montpelier Construction,"Windsor County, VT",Timber,Single Family,1819,New Construction,,"['July', '7,', '2017']",2017,July,VT,Windsor County
+294,1276,Anchor Bay House,Certified,Graham Irwin,,"Gualala, CA",Timber,Single Family,996,New Construction,,"['February', '19,', '2016']",2016,February,CA,Gualala
+295,1279,Village Center Apartments,Certified,Colin Schless,Wright-Ryan Construction (WRC),"Brewer, ME",Timber,Multifamily,51778,New Construction,,"['September', '15,', '2016']",2016,September,ME,Brewer
+296,1282,Flora Vista,Certified,Dan Whitmore,Bicycle Homebuilding,"Olympia, WA",Timber,Single Family,2398,New Construction,,"['December', '2,', '2019']",2019,December,WA,Olympia
+297,1288,Wayland Passive house,Certified,Michael Hindle,Auburndale Builders,"Wayland, MA",Mixed timber-masonry,Single Family,5635,New Construction,,"['May', '4,', '2018']",2018,May,MA,Wayland
+298,1289,Madison Supportive Housing - Rethke Terrace,Certified,James Lewis,McGann COnstruction,"Madison, WI",Timber,Multifamily,27838,New Construction,,"['May', '14,', '2016']",2016,May,WI,Madison
+299,1290,Wallingford Passive House Residence,Certified,Markus Barrera-Kolb,Hammer & Hand,"Seattle, WA",Timber,Single Family,3458,New Construction,,"['August', '21,', '2017']",2017,August,WA,Seattle
+300,1291,Rutherford Residence,Certified,Sam Rodell  Maren Longhurst,"Andy Smith and Mike Ridlehoover, Edwards Smith Construction LLC","Coeur d'Alene, ID",Mixed timber-masonry,Single Family,3505,New Construction,,"['June', '6,', '2018']",2018,June,ID,Coeur d'Alene
+301,1292,Ashtree Passive House,Certified,Scott Yribar,Enerform,"Boise, ID",Timber,Single Family,2845,New Construction,,"['July', '14,', '2017']",2017,July,ID,Boise
+302,1294,Afton Passive House,Certified,No Active CPHC,"Bluff City Builders, Inc. - Jay Roettger","Afton, MN",Insulated concrete forms,Single Family,4027,New Construction,,"['May', '6,', '2020']",2020,May,MN,Afton
+303,1297,East Lawrence Passive House,Certified,Ryan Abendroth,Studio 804,"Lawrence, KS",Timber,Single Family,1941,New Construction,,"['February', '19,', '2016']",2016,February,KS,Lawrence
+304,1298,Right-Sized Passive Home,Certified,Tom Bassett-Dilley,Evolutionary Home Builders,"Oak Park, IL",Timber,Single Family,1724,New Construction,,"['September', '13,', '2016']",2016,September,IL,Oak Park
+305,1299,Kendra St Residence,Certified,Ben Wolk-Weiss,Habitat for Humanity,"Corvallis, OR",Timber,Single Family,1302,New Construction,,"['May', '4,', '2018']",2018,May,OR,Corvallis
+306,1300,Berks Passive House,Certified,Richard Pedranti  Michelle Sangster,Owner,"Bechtelsville, PA",Timber,Single Family,2440,New Construction,,"['March', '20,', '2017']",2017,March,PA,Bechtelsville
+307,1301,Staten Island B2,Certified,David White,"Bluestone RRSI, LLC","Staten Island, NY",Autoclaved aerated concrete (AAC),Single Family,820,New Construction,,"['May', '4,', '2018']",2018,May,NY,Staten Island
+308,1302,Staten Island B7,Certified,David White,"Bluestone RRSI, LLC","Staten Island, NY",Autoclaved aerated concrete (AAC),Single Family,1105,New Construction,,"['June', '13,', '2018']",2018,June,NY,Staten Island
+309,1303,2 Thomas Street,Certified,Chris West,Alex Carver,"Middlebury, VT",Timber,Single Family,1721,New Construction,,"['July', '27,', '2017']",2017,July,VT,Middlebury
+310,1304,Bryan / Corish Residence,Certified,Natalie Leonard,S.Larade Custom HomeBuilder,"Halifax, NS",Timber,Single Family,1951,New Construction,,"['March', '20,', '2017']",2017,March,NS,Halifax
+311,1305,Alice Street Duplex - Housing NS,Certified,Natalie Leonard,Global Construction,"Truro , NS",Timber,Multifamily,3441,New Construction,,"['July', '7,', '2016']",2016,July,NS,Truro
+312,1310,RMI Basalt Innovation Center,Certified,,JE Dunn Construction,"Basalt, CO",Timber,Commercial,15610,New Construction,,"['December', '21,', '2015']",2015,December,CO,Basalt
+313,1311,Beach Green Dunes,Certified,Lisa White,The Bluestone Organization,"Far Rockaway, NY",Insulated concrete forms,Multifamily,93894,New Construction,,"['April', '11,', '2018']",2018,April,NY,Far Rockaway
+314,1313,Emerson St House,Certified,Jeff Stern,Birdsmouth Construction,"Portland, OR",Timber,Multifamily,2098,New Construction,,"['July', '22,', '2016']",2016,July,OR,Portland
+315,1316,Italian Market Passive House,Certified,Laura Blau,Chris Hanson - Hanson Fine Home Builders,"Philadelphia, PA",Timber,Single Family,2293,New Construction,,"['January', '12,', '2018']",2018,January,PA,Philadelphia
+316,1317,Pitney Passive House,Certified,Scott Kosmecki,Cellar Ridge Construction,"Mcminnville, OR",Timber,Single Family,1004,New Construction,,"['December', '16,', '2016']",2016,December,OR,Mcminnville
+317,1323,Christianson PH,Certified,Win Swafford  Jan Fillinger,G. Christianson Construction,"Corvallis, OR",Timber,Single Family,1935,New Construction,,"['August', '24,', '2017']",2017,August,OR,Corvallis
+318,1326,Elm Place Multifamily Project,Certified,Chris West,,"Milton, VT",Timber,Multifamily,27690,New Construction,,"['July', '21,', '2017']",2017,July,VT,Milton
+319,1329,Hillcrest Senior Residences,Certified,John Semmelhack,"SOTA Construction Services, Inc.","Pittsburgh, PA",Timber,Multifamily,54435,New Construction,,"['March', '27,', '2018']",2018,March,PA,Pittsburgh
+320,1330,Studley Residence,Certified,Chris Trolle,"BPC Green Buiders, Jeff Girvalo","Staatsburg, NY",Mixed timber-masonry,Single Family,3600,New Construction,,"['August', '18,', '2017']",2017,August,NY,Staatsburg
+321,1337,High Street Passive House,Certified,Juhee Lee-Hartford,"Roland Heitmann, Heitmann Builders Inc. www.heitmannbuilders.com","Cold Spring, NY",Timber,Single Family,3245,New Construction,,"['February', '16,', '2018']",2018,February,NY,Cold Spring
+322,1338,Passive Lodge at Silver Lake,Certified,James Hartford  John Loercher,"Benjamin Bogie, Built To Last LLC","Sharon, CT",Timber,Commercial,2423,Retrofit,,"['January', '19,', '2017']",2017,January,CT,Sharon
+323,1339,Joslin Hill House,Certified,Jesse Thompson,Shelterwood Construction,"Waitsfield, VT",Timber,Single Family,2548,New Construction,,"['June', '11,', '2018']",2018,June,VT,Waitsfield
+324,1343,Bayside Anchor Apartments,Certified,Jesse Thompson,Wright-Ryan Construction,"Portland, ME",Timber,Multifamily,36161,New Construction,,"['May', '2,', '2019']",2019,May,ME,Portland
+325,1347,Acorn Glade,Certified,Tom Bassett-Dilley,Evolutionary Home Builders,"Downers Grove, IL",Timber,Single Family,1785,New Construction,,"['December', '4,', '2019']",2019,December,IL,Downers Grove
+326,1348,Orchards at Orenco II,Certified,,Walsh Construction,"Hillsboro, OR",Timber,Multifamily,46148,New Construction,,"['October', '27,', '2016']",2016,October,OR,Hillsboro
+327,1351,Passive Studio,Certified,James Hartford  John Loercher,"Michael Robinson, Form Factory LLC","Cold Spring, NY",Mixed timber-masonry,Commercial,1097,Retrofit,,"['April', '13,', '2018']",2018,April,NY,Cold Spring
+328,1358,Hillsdale,Certified,,Steve Bluestone,"Hillsdale, NY",Autoclaved aerated concrete (AAC),Single Family,3978,New Construction,,"['August', '4,', '2016']",2016,August,NY,Hillsdale
+329,1360,Governor's House - Passive Fair,Certified,,,"Britton, SD",Timber,Single Family,1415,New Construction,,"['October', '13,', '2017']",2017,October,SD,Britton
+330,1361,Gardner Residence,Certified,Michael Whartnaby,"Graf Custom Construction, LLC","Beaver, PA",Timber,Single Family,2180,New Construction,,"['May', '2,', '2018']",2018,May,PA,Beaver
+331,1362,Saugatucket Pond House,Certified,Daniel Roy,Steve DeMetrick,"Wakefield, RI",Timber,Single Family,2480,New Construction,,"['November', '22,', '2017']",2017,November,RI,Wakefield
+332,1366,Gilford Village Knolls III,Certified,Paul Eldrenkamp  Michael Hindle,Laconia Area Community Land Trust,"Gilford, NH",Timber,Multifamily,20571,New Construction,,"['December', '6,', '2018']",2018,December,NH,Gilford
+333,1373,Central Vermont Chapter Habitat for Humanity PH Build,Certified,Christopher Clarke Miksic,Habitat for Humanity/ Montpelier Construction,"East Montpelier, VT",Timber,Single Family,1318,New Construction,,"['May', '4,', '2018']",2018,May,VT,East Montpelier
+334,1376,The Rockpile,Certified,Shane Hoeper,Hoeper Green Power,"Dubuque, IA",Timber,Single Family,807,New Construction,,"['April', '25,', '2018']",2018,April,IA,Dubuque
+335,1377,Krueger Residence,Certified,Thomas Moore,Hills Construction Management,"Palenville, NY",Timber,Single Family,2116,New Construction,,"['November', '22,', '2017']",2017,November,NY,Palenville
+336,1379,Spring House - Maison des sources,Certified,Chris West  Sarah Cobb,William Murray and Sarah Cobb,"Abercorn, QC",Mixed timber-masonry,Single Family,1432,New Construction,,"['March', '2,', '2018']",2018,March,QC,Abercorn
+337,1387,Delphi Haus,Certified,Randy Foster,,"Olympia, WA",,Single Family,2288,New Construction,,"['August', '31,', '2017']",2017,August,WA,Olympia
+338,1388,Cascade Hudson Apartments,Certified,Joseph Giampietro  Skylar Swinford,Cascade Built,"Seattle, WA",Timber,Multifamily,14813,New Construction,,"['March', '9,', '2020']",2020,March,WA,Seattle
+339,1389,Granite City Housing Authority Duplex Prototype,Certified,Tony Holub,,"Granite City, IL",Timber,Multifamily,1150,New Construction,,"['March', '20,', '2019']",2019,March,IL,Granite City
+340,1393,Loantaka,Certified,Patrick Ryan,Ryan Inc.,"Madison, NJ",Timber,Single Family,3981,Retrofit,,"['April', '13,', '2020']",2020,April,NJ,Madison
+341,1394,Fairwood Commons,Certified,Sanyog Rathod,"Woda Cooper Companies, Inc","Columbus, OH",,Multifamily,56050,New Construction,,"['December', '18,', '2019']",2019,December,OH,Columbus
+342,1396,Hebron Heights,Certified,Natalie Leonard,Graham Construction,"Hebron, NS",Mixed timber-masonry,Multifamily,7473,Retrofit,,"['March', '12,', '2018']",2018,March,NS,Hebron
+343,1410,29 Bellis Circle,Certified,Tagore Hernandez,Group Design Build Inc,"Cambridge, MA",Timber,Single Family,3366,New Construction,,"['October', '1,', '2019']",2019,October,MA,Cambridge
+344,1411,Casa La Vista,Certified,Keith Simon  Mark Larson,Built Green Homes,"Spicewood, TX",Timber,Single Family,2990,New Construction,,"['February', '21,', '2020']",2020,February,TX,Spicewood
+345,1414,Capital Flats II,Certified,Timothy McDonald,Onion Flats Construction,"Philadelphia, PA",Timber,Multifamily,16782,New Construction,,"['April', '10,', '2018']",2018,April,PA,Philadelphia
+346,1415,PH01,Certified,Robert Arlt,Brookings Built Green,"Brookings, SD",Timber,Single Family,2013,New Construction,,"['October', '17,', '2019']",2019,October,SD,Brookings
+347,1419,Maine Coast Waldorf High School,Certified,Chris Briley  Hans Breaux,Warren Construction Group,"Freeport, ME",Timber,School,10216,New Construction,,"['March', '2,', '2018']",2018,March,ME,Freeport
+348,1424,Phantom Lake Passive House,Certified,Dan Whitmore,Sunshine Construction,"Bellevue, WA",Timber,Single Family,2790,New Construction,,"['June', '21,', '2019']",2019,June,WA,Bellevue
+349,1426,Madison Park Passive House,Certified,Dan Whitmore,Axiom Design/Build,"Seattle , WA",Mixed timber-masonry,Single Family,3323,New Construction,,"['June', '19,', '2019']",2019,June,WA,Seattle
+350,1429,Madison House,Certified,Randy Foster,Artisans Group,"Olympia, WA",Timber,Single Family,1358,New Construction,,"['August', '30,', '2018']",2018,August,WA,Olympia
+351,1431,Lincoln House,Certified,Chris West,,"Lincoln, VT",Timber,Single Family,1794,New Construction,,"['December', '15,', '2017']",2017,December,VT,Lincoln
+352,1434,Adams Street Office,Certified,Michael Hindle,Auburndale Builders,"Newton , MA",Masonry,Commercial,1255,Retrofit,,"['November', '29,', '2018']",2018,November,MA,Newton
+353,1437,Park Avenue Green,Certified,Manalee Nabar  Manalee Nabar,Monadnock Construction Inc.,"New York, NY",Masonry,Multifamily,152126,New Construction,,"['March', '14,', '2019']",2019,March,NY,New York
+354,1451,Jordan Passive House,Certified,Lisa Farmer,"Craftsmen Builders, Inc.","Fort Collins, CO",Timber,Single Family,3578,New Construction,,"['January', '7,', '2019']",2019,January,CO,Fort Collins
+355,1452,Preissner Residence,Certified,"Michael Klement, AIA  Alex Jackson",Adaptive Building Solutions,"Ann Arbor, MI",Timber,Single Family,4990,New Construction,,"['July', '2,', '2019']",2019,July,MI,Ann Arbor
+356,1454,Reynolds Residence,Certified,John Loercher  Stephanie Bassler,"Reynolds Design Associates, Inc.","Accord, NY",Timber,Single Family,2755,New Construction,,"['July', '23,', '2018']",2018,July,NY,Accord
+357,1458,Roxbury Apartments,Certified,Prudence Ferreira,Mistick,"Johnstown, PA",Timber,Multifamily,43573,New Construction,,"['November', '11,', '2019']",2019,November,PA,Johnstown
+358,1459,Duntourin Farm,Certified,Natalie Leonard,Global Construction,"Salt Springs, NS",Mixed timber-masonry,Single Family,1682,New Construction,,"['March', '12,', '2019']",2019,March,NS,Salt Springs
+359,1460,Modern Ocean View PEI,Certified,Natalie Leonard,Warren's Carpentry,"Summerside , PE",Timber,Single Family,3470,New Construction,,"['March', '27,', '2019']",2019,March,PE,Summerside
+360,1461,Contemporary Ocean View PEI,Certified,Natalie Leonard,Warren's Carpentry,"Summerside , PE",Timber,Single Family,2568,New Construction,,"['March', '27,', '2019']",2019,March,PE,Summerside
+361,1462,1004 Woodland Park Circle - CreekView Apartments at Woodland Park,Certified,James Moriarty,DiMarco Constructors LLC,"Canandaigua, NY",Timber,Multifamily,9274,New Construction,,"['August', '21,', '2019']",2019,August,NY,Canandaigua
+362,1468,Tierra Linda,Certified,Lisa White,Linn-Mathes Construction,"Chicago, IL",Timber,Multifamily,8596,New Construction,,"['April', '17,', '2019']",2019,April,IL,Chicago
+363,1470,1005 Woodland Park Circle - CreekView Apartments at Woodland Park,Certified,James Moriarty,DiMarco Constructors LLC,"Canandaigua, NY",Timber,Multifamily,6990,New Construction,,"['September', '13,', '2019']",2019,September,NY,Canandaigua
+364,1471,1006 Woodland Park Circle - CreekView Apartments at Woodland Park,Certified,James Moriarty,DiMarco Constructors LLC,"Canandaigua, NY",Timber,Multifamily,9274,New Construction,,"['September', '13,', '2019']",2019,September,NY,Canandaigua
+365,1472,1007 Woodland Park Circle - CreekView Apartments at Woodland Park,Certified,James Moriarty,DiMarco Constructors LLC,"Canandaigua, NY",Timber,Multifamily,6990,New Construction,,"['September', '13,', '2019']",2019,September,NY,Canandaigua
+366,1473,3000 Creekview Drive - CreekView Apartments at Woodland Park,Certified,James Moriarty,DiMarco Constructors LLC,"Canandaigua, NY",Timber,Multifamily,9274,New Construction,,"['September', '13,', '2019']",2019,September,NY,Canandaigua
+367,1474,1009 Woodland Park Circle - CreekView Apartments at Woodland Park,Certified,James Moriarty,DiMarco Constructors LLC,"Canandaigua, NY",Timber,Multifamily,6990,New Construction,,"['September', '13,', '2019']",2019,September,NY,Canandaigua
+368,1475,1011 Woodland Park Circle - CreekView Apartments at Woodland Park,Certified,James Moriarty,DiMarco Constructors LLC,"Canandaigua, NY",Timber,Multifamily,6990,New Construction,,"['September', '13,', '2019']",2019,September,NY,Canandaigua
+369,1476,3001 CreekView Drive - CreekView Apartments at Woodland Park,Certified,,DiMarco Constructors LLC,"Canandaigua, NY",Timber,Multifamily,5904,New Construction,,"['September', '13,', '2019']",2019,September,NY,Canandaigua
+370,1477,3003 CreekView Drive - CreekView Apartments at Woodland Park,Certified,James Moriarty,DiMarco Constructors LLC,"Canandaigua, NY",Timber,Multifamily,5904,New Construction,,"['September', '13,', '2019']",2019,September,NY,Canandaigua
+371,1478,3004 Creekview Drive - CreekView Apartments at Woodland Park,Certified,James Moriarty,DiMarco Constructors LLC,"Canandaigua, NY",Timber,Multifamily,9274,New Construction,,"['September', '13,', '2019']",2019,September,NY,Canandaigua
+372,1479,3005 CreekView Drive - CreekView Apartments at Woodland Park,Certified,James Moriarty,DiMarco Constructors LLC,"Canandaigua, NY",Timber,Multifamily,5904,New Construction,,"['September', '13,', '2019']",2019,September,NY,Canandaigua
+373,1480,CreekView Apartments at Woodland Park Phase 1 - Building 12,Certified,James Moriarty,DiMarco Constructors LLC,"Canandaigua, NY",Timber,Multifamily,6990,New Construction,,"['September', '13,', '2019']",2019,September,NY,Canandaigua
+374,1481,South Jersey Passive House,Certified,Ilka Cassidy,Hugh Lofting Timber Framing and High Performance Building,"Southampton, NJ",Timber,Single Family,2262,New Construction,,"['July', '1,', '2019']",2019,July,NJ,Southampton
+375,1482,Schickler Lane Ph,Certified,Dan Welch,Bellingham Bay Builders,"Bellingham, WA",Timber,Single Family,2532,New Construction,,"['November', '1,', '2019']",2019,November,WA,Bellingham
+376,1483,Schickler Lane ADU,Certified,Dan Welch,Bellingham Bay Builders,"Belingham, WA",Timber,Single Family,1034,New Construction,,"['November', '1,', '2019']",2019,November,WA,Belingham
+377,1489,Rockquist Passive House Minor,Certified,Juhee Lee-Hartford  Adriana Rombaldi,Heitmann Builders,"Garrison, NY",Timber,Single Family,3680,New Construction,,"['April', '5,', '2019']",2019,April,NY,Garrison
+378,1490,Prairie Athletic & Recreation Center,Certified,Lisa White,Wight & Co,"Plainfield, IL",,Commercial,35204,New Construction,,"['July', '25,', '2019']",2019,July,IL,Plainfield
+379,1506,Provo Passive House,Certified,Thomas Candee,Hinckley Eaves Construction,"Provo, UT",Timber,Single Family,6240,New Construction,,"['May', '26,', '2020']",2020,May,UT,Provo
+380,1507,Beach Green Dunes Phase 2,Certified,Thomas Moore,BGN II Owner LLC,"Far Rockaway, NY",Masonry,Multifamily,103133,New Construction,,"['May', '29,', '2020']",2020,May,NY,Far Rockaway
+381,1515,295 Painter Hill,Certified,Owen O'Connor,Threshold Builders,"Wurtsburo, NY",Timber,Single Family,1428,New Construction,,"['June', '21,', '2019']",2019,June,NY,Wurtsburo
+382,1525,Palladino Cottage,Certified,Jeb Rosenberger  Josh Edmonds,Simple Integrity LLC,"Cooperstown, NY",Timber,Single Family,560,New Construction,,"['January', '9,', '2020']",2020,January,NY,Cooperstown
+383,1528,Wheaton College Dormitory,Certified,Colin Schless  Elsa Mullin,,"Norton, MA",,Multifamily,38186,New Construction,,"['March', '6,', '2020']",2020,March,MA,Norton
+384,1529,Habitat 20K Passive House,Certified,David Bitter,"Auburn University 20K Initiative/ Real Life builders, LLC (GC of Record)","Opelika, AL",Timber,Single Family,819,New Construction,,"['August', '27,', '2019']",2019,August,AL,Opelika
+385,1539,St Joseph's School Addition,Certified,Tom Bassett-Dilley,,"Downers Grove, IL",,School,7016,Addition,,"['March', '12,', '2020']",2020,March,IL,Downers Grove
+386,1541,Crackatuxet Residence,Certified,Daniel Roy,Adam T Incorporated,"Edgartown, MA",Timber,Single Family,1632,New Construction,,"['February', '11,', '2020']",2020,February,MA,Edgartown
+387,1568,Edmonds Residence,Certified,Jeb Rosenberger  Josh Edmonds,Simple Integrity LLC,"Cooperstown, NY",Timber,Single Family,2643,New Construction,,"['January', '30,', '2020']",2020,January,NY,Cooperstown
+388,1570,THOMPSON PASSIVE HOUSE,Certified,Margaret Kirk,AARON THOMPSON,"MOAB, UT",Timber,Single Family,2279,New Construction,,"['November', '7,', '2019']",2019,November,UT,MOAB
+389,1578,Polk Passive House,Certified,Scott Yribar,Jess Chapman,"New Meadows , ID",Timber,Single Family,2677,New Construction,,"['May', '1,', '2019']",2019,May,ID,New Meadows
+390,1586,176 North Winooski Ave,Certified,Chris West,New Frameworks,"Burlington, VT",Timber,Single Family,1380,New Construction,,"['April', '13,', '2020']",2020,April,VT,Burlington
+391,1587,Meadows House,Certified,Chris Price,T&T Mountain Builders,"Park City, UT",Timber,Single Family,4490,New Construction,,"['March', '6,', '2020']",2020,March,UT,Park City
+392,1608,Tracy Street,Certified,Chris West,,"Lebanon, , NH",,Multifamily,26246,New Construction,,"['April', '23,', '2020']",2020,April,NH,Lebanon
