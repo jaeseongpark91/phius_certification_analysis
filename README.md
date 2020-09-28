@@ -1,6 +1,6 @@
 ## Passive House Institute US Certification Case Analysis
 
-As a former PHIKO (Passive House Institute KOrea) researcher, I became interested in PHIUS (Passive House Institute United States) certification projects data. PHIUS provides its certification projects database information in their website. In this project, we will collect and organize the USA Passive House projects data, explore the data and share some interesting findings. 
+As a former PHIKO (Passive House Institute KOrea) researcher, I became interested in PHIUS (Passive House Institute United States) certification projects data. PHIUS provides its certification projects database information in their website. In this project, I will collect and organize the USA Passive House projects data, explore the data and share some interesting findings. 
 
 The codes are written in the Jupyter notebook **'phius_certification_database_new.ipynb'**. Please refer to this file. 
 
